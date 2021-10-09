@@ -1,0 +1,7 @@
+﻿  seqlist.c
+D:\study\code\Project9-28\Project9-28\seqlist.c(136,35): warning C4047: “<=”:“int”与“int (__cdecl *)(seqList *)”的间接级别不同
+D:\study\code\Project9-28\Project9-28\seqlist.c(175,3): warning C4033: “searchPos”必须返回值
+  test.c
+  正在生成代码...
+D:\study\code\Project9-28\Project9-28\seqlist.c(178): warning C4715: “searchPos”: 不是所有的控件路径都返回值
+  Project9-28.vcxproj -> D:\study\code\Project9-28\Debug\Project9-28.exe
